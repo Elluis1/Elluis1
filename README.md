@@ -65,8 +65,8 @@ hasta backends, IA aplicada y proyectos con impacto social / accesibilidad.
 
 | Proyecto | Descripción | Stack |
 |----------|-------------|-------|
-| [**savori**](https://github.com/Elluis1/savori) | Aplicación en TypeScript | TypeScript |
-| [**savedeco**](https://github.com/Elluis1/savedeco) | Proyecto web / frontend | JavaScript |
+| [**savori**](https://github.com/Elluis1/savori) | Recetario mobile | TypeScript |
+| [**savedeco**](https://github.com/Elluis1/savedeco) | Decodificador de partidas y guardados | JavaScript |
 | [**SmileTracker**](https://github.com/Elluis1/SmileTrackerDesktop) | Sistema para consultorio (desktop + frontend + backend) | TypeScript · Python · Django |
 | [**DAV-Luigi**](https://github.com/Elluis1/DAV-Luigi) | CAD asistido por voz — accesibilidad en modelado 2D/3D | C++ · VUI |
 | [**Stock-viewer**](https://github.com/Elluis1/Stock-viewer) | App de escritorio: stock, ventas, compras y balance | TypeScript |
