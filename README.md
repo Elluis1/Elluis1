@@ -9,7 +9,7 @@
 
 **Estudiante de Licenciatura en Sistemas de Información** · FCyT — UADER
 
-Apasionado por el desarrollo de software, desde apps de escritorio y mobile  
+Desarrollador de software, desde apps de escritorio y mobile  
 hasta backends, IA aplicada y proyectos con impacto social / accesibilidad.
 
 [![GitHub](https://img.shields.io/badge/GitHub-Elluis1-1B3A5F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Elluis1)
@@ -25,7 +25,6 @@ hasta backends, IA aplicada y proyectos con impacto social / accesibilidad.
 - 💻 Interés en **fullstack**, **mobile**, **desktop** y **backend**
 - ♿ Participé en **DAV**: CAD asistido por voz para personas con movilidad reducida (PET / Res. 574-25)
 - 🧩 Me gusta transformar ideas en productos concretos: stock, ventas, juegos, APIs e IA
-- 🚀 Siempre aprendiendo y sumando proyectos académicos + personales
 
 ---
 
@@ -35,7 +34,6 @@ hasta backends, IA aplicada y proyectos con impacto social / accesibilidad.
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
@@ -68,10 +66,6 @@ hasta backends, IA aplicada y proyectos con impacto social / accesibilidad.
 | [**DAV-Luigi**](https://github.com/Elluis1/DAV-Luigi) | CAD asistido por voz — accesibilidad en modelado 2D/3D | C++ · VUI |
 | [**Stock-viewer**](https://github.com/Elluis1/Stock-viewer) | App de escritorio: stock, ventas, compras y balance | TypeScript |
 | [**savori**](https://github.com/Elluis1/savori) | Proyecto en TypeScript | TypeScript |
-| [**DesarrolloMobile2025**](https://github.com/Elluis1/DesarrolloMobile2025) | Trabajos de Desarrollo Mobile (UADER) | JavaScript |
-| [**api-redis-4toanio**](https://github.com/Elluis1/api-redis-4toanio) | API con Redis | Python · Redis |
-| [**TPfinal-IA**](https://github.com/Elluis1/TPfinal-IA) | Trabajo final de Inteligencia Artificial | Python |
-| [**AnotadorTruco**](https://github.com/Elluis1/AnotadorTruco) | Anotador de Truco / Chin Chón | JavaScript |
 
 ---
 
