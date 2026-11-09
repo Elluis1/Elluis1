@@ -43,6 +43,8 @@ hasta backends, IA aplicada y proyectos con impacto social / accesibilidad.
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
 
 ### Backend / Datos
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
@@ -63,9 +65,11 @@ hasta backends, IA aplicada y proyectos con impacto social / accesibilidad.
 
 | Proyecto | Descripción | Stack |
 |----------|-------------|-------|
+| [**savori**](https://github.com/Elluis1/savori) | Aplicación en TypeScript | TypeScript |
+| [**savedeco**](https://github.com/Elluis1/savedeco) | Proyecto web / frontend | JavaScript |
+| [**SmileTracker**](https://github.com/Elluis1/SmileTrackerDesktop) | Sistema para consultorio (desktop + frontend + backend) | TypeScript · Python · Django |
 | [**DAV-Luigi**](https://github.com/Elluis1/DAV-Luigi) | CAD asistido por voz — accesibilidad en modelado 2D/3D | C++ · VUI |
 | [**Stock-viewer**](https://github.com/Elluis1/Stock-viewer) | App de escritorio: stock, ventas, compras y balance | TypeScript |
-| [**savori**](https://github.com/Elluis1/savori) | Proyecto en TypeScript | TypeScript |
 
 ---
 
@@ -74,7 +78,7 @@ hasta backends, IA aplicada y proyectos con impacto social / accesibilidad.
 ```text
 ✔ Desarrollo web (HTML, CSS, JS/TS, Vite)
 ✔ Aplicaciones mobile y desktop
-✔ Backend y APIs (Python / Node)
+✔ Backend y APIs (Python, Django / Node)
 ✔ Bases de datos SQL y NoSQL (Redis)
 ✔ Inteligencia Artificial (trabajos académicos)
 ✔ Ingeniería de software e ingeniería de requisitos
